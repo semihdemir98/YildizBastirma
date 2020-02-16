@@ -1,0 +1,3 @@
+Istenilen sekil ve formatta yildiz ucgen bastirma calismasi.
+16.02.2020
+Semih Demir
